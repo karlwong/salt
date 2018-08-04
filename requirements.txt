@@ -1,0 +1,9 @@
+cython
+tensorflow
+keras
+spyder
+jupyter
+numpy
+pandas
+sklearn
+matplotlib
